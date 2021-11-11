@@ -1,2 +1,2 @@
-# TallerPHP
+# Taller en PHP
 Trabajo Grupal
